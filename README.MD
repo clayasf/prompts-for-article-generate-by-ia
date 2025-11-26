@@ -7,6 +7,11 @@
 </p>
 
 <p>
+    Artigo publicado no DIO
+    https://dio.me/articles/o-que-ha-de-novo-no-php-85-pipe-operator-uri-nativa-e-outras-grandes-mudancas-63665da269e6
+</p>
+
+<p>
     <strong>#capa</strong><br>
     com a capa feita no lexica.Art e PowerPoint
 </p>
